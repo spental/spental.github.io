@@ -114,25 +114,17 @@ h1 {
     border-radius: 15px;
 }
 
-#weatherApp {
-    width: 250px;
-    height: 250px;
-}
-/* 
-.responsive-iframe {
-    position: absolute;
-    top: 25%;
-    left: 0;
-    bottom: auto;
-    right: 0;
-    width: 30%;
-    height: 25%;
-    width: 33%;
-    height: 33%;
-  } */
+
 
 p {
     background-image: url(/pictures/white\ background.jpg);
    
 }
+h4 {
+    background-color: rgb(255, 240, 28);
 
+}
+iframe {
+    width: 95%;
+    height: 25%;
+}
