@@ -68,7 +68,7 @@ nav {
     width: 150px;
     height: 150px;
     float: left;
-    margin: 0 10px 10px 0;
+    margin: 10px 10px 10px 10px;
     border-radius: 15px 50px;
 }
 
@@ -76,6 +76,9 @@ h1 {
     align-items: center;
     color: rgb(199, 96, 33); 
     text-align: center;   
+    background-color: darkseagreen;
+    border: black;
+    border-style: solid;
 }
 
 .center {
@@ -117,7 +120,9 @@ h1 {
 
 
 p {
-    background-image: url(/pictures/white\ background.jpg);
+    background-color: darkseagreen;
+    border: black;
+    border-style: solid;
    
 }
 h4 {
