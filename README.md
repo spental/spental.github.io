@@ -45,3 +45,9 @@ _--CSS--_
 _- one CSS page with no redunt program
 _- labled and organized by designations
 ![All working Apps Added]("./pictures/Screen Shot 2021-01-29 at 10.02.46 PM.png")
+
+
+1. [Updated Portfolio](#updated-portfolio)
+2. [GitHub Profile](#updated-github-profile)
+3. [Updated Resume](#updated-resume)
+4. [Updated LinkedIn](#updated-linkedin)
